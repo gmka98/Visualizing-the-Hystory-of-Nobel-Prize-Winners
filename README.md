@@ -1,6 +1,7 @@
 # 📊 Nobel Prize Data Analysis
 
 This project is a data exploration and analysis of the Nobel Prize dataset using Python, pandas, seaborn, and NumPy.
+![nobel prize picture](nobel-prize.jpg)
 
 ## 📁 Dataset
 
